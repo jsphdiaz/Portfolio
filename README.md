@@ -10,4 +10,9 @@ and progress.
 
 [Chicago Crime - Time Series Forecasting](https://nbviewer.jupyter.org/github/jsphdiaz/Portfolio/blob/master/Portfolio/Time%20Series%20-%20Chicago%20Crime/Chicago%20Crime%20Forecasting.ipynb)
   - A Seasonal Auto-Regressive Integrated Moving Average (SARIMAX) model to predict Chicago crimes by week. Achieved a MAPE of 4.6%
+ 
 
+## Mini-Projects
+[Basic House Price Regression](https://github.com/jsphdiaz/Portfolio/blob/master/Portfolio/mini_projects/House%20Prices/Housing%20Price%20Linear%20Regression.ipynb)
+  - Predicted the value of houses based on multiple features using linear regression.
+  - Involves data exploration with matplotlib and transformations with pandas.
