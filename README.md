@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects completed by Joseph Dia
 This is meant to showcase my knowledge in the area of data analytics and machine learning as well as to document my learning
 and progress.
 
-[Please feel free to reach out via LinkedIn] (https://www.linkedin.com/in/jsphdiaz/)
+[Please feel free to reach out via LinkedIn](https://www.linkedin.com/in/jsphdiaz/)
 
 ## Projects
 
