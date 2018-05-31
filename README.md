@@ -13,6 +13,12 @@ and progress.
  
 
 ## Mini-Projects
+
+[Apparent Temperature Regression Analysis](https://github.com/jsphdiaz/Portfolio/blob/master/Portfolio/mini_projects/Apparent%20Temprature/Apparent%20Temperature%20Regression.ipynb)
+  - An analysis of the relationship between different weather factors and apparent temperature using regression
+  - Achieved an R-squared value of 99%
+
+
 [Basic House Price Regression](https://github.com/jsphdiaz/Portfolio/blob/master/Portfolio/mini_projects/House%20Prices/Housing%20Price%20Linear%20Regression.ipynb)
   - Predicted the value of houses based on multiple features using linear regression.
   - Involves data exploration with matplotlib and transformations with pandas.
