@@ -9,7 +9,7 @@ and progress.
 ## Projects
 
 
-[House Prices Advanced Regression and EDA - Kaggle]https://github.com/jsphdiaz/Portfolio/blob/master/Portfolio/House%20Prices%20Advanced%20Regression%20Techniques/House%20Prices%20Advanced%20Regression%20and%20EDA.ipynb)
+[House Prices Advanced Regression and EDA - Kaggle](https://github.com/jsphdiaz/Portfolio/blob/master/Portfolio/House%20Prices%20Advanced%20Regression%20Techniques/House%20Prices%20Advanced%20Regression%20and%20EDA.ipynb)
   - Write up in progress
   - Used gradient boosting with hyperparameter tuning to achive a RMSLE of 0.12
   - Extensive data wrangling and EDA
