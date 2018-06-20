@@ -9,17 +9,14 @@ and progress.
 ## Projects
 
 
-[House Prices Advanced Regression and EDA - Kaggle](https://github.com/jsphdiaz/Portfolio/tree/master/Portfolio/House%20Prices%20Advanced%20Regression%20Techniques)
+[House Prices Advanced Regression and EDA - Kaggle]https://github.com/jsphdiaz/Portfolio/blob/master/Portfolio/House%20Prices%20Advanced%20Regression%20Techniques/House%20Prices%20Advanced%20Regression%20and%20EDA.ipynb)
   - Write up in progress
   - Used gradient boosting with hyperparameter tuning to achive a RMSLE of 0.12
-  - Detailed data wrangling and EDA
+  - Extensive data wrangling and EDA
   - Top 18% in Kaggle
-
-
 [Chicago Crime - Time Series Forecasting](https://nbviewer.jupyter.org/github/jsphdiaz/Portfolio/blob/master/Portfolio/Time%20Series%20-%20Chicago%20Crime/Chicago%20Crime%20Forecasting.ipynb)
   - A Seasonal Auto-Regressive Integrated Moving Average (SARIMAX) model to predict Chicago crimes by week. Achieved a MAPE of 4.6%
  
-
 ## Mini-Projects
 
 [Apparent Temperature Regression Analysis](https://github.com/jsphdiaz/Portfolio/blob/master/Portfolio/mini_projects/Apparent%20Temprature/Apparent%20Temperature%20Regression.ipynb)
