@@ -14,6 +14,7 @@ and progress.
   - Used gradient boosting with hyperparameter tuning to achive a RMSLE of 0.12
   - Extensive data wrangling and EDA
   - Top 18% in Kaggle
+  
 [Chicago Crime - Time Series Forecasting](https://nbviewer.jupyter.org/github/jsphdiaz/Portfolio/blob/master/Portfolio/Time%20Series%20-%20Chicago%20Crime/Chicago%20Crime%20Forecasting.ipynb)
   - A Seasonal Auto-Regressive Integrated Moving Average (SARIMAX) model to predict Chicago crimes by week. Achieved a MAPE of 4.6%
  
